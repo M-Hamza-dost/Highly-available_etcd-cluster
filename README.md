@@ -131,6 +131,9 @@ echo "export ETCDCTL_KEY=/etc/etcd/pki/etcd-key.pem" >> ~/.bashrc
 source ~/.bashrc
 ```
 
+![Screenshot](https://github.com/M-Hamza-dost/Highly-available_etcd-cluster/blob/main/diagram.png)
+
+
 ## Conclusion
 
 The **ETCD cluster** was successfully set up with **TLS authentication**, ensuring secure and reliable key-value storage for distributed applications. Contributions and improvements are welcome — feel free to explore and enhance this repository!
